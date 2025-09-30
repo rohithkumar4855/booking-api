@@ -1,0 +1,26 @@
+{
+  "name": "booking-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohithkumar4855/booking-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohithkumar4855/booking-api/issues"
+  },
+  "homepage": "https://github.com/rohithkumar4855/booking-api#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "router": "^2.2.0",
+    "uuid": "^13.0.0"
+  }
+}
